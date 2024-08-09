@@ -874,3 +874,6 @@ put them back in again.` >}}
   * Ke Wang <me@ke.wang>
   * AThePeanut4 <49614525+AThePeanut4@users.noreply.github.com>
   * Tobias Markus <tobbi.bugs@googlemail.com>
+  * Ernie Hershey <github@ernie.org>
+  * Will Miles <wmiles@sgl.com>
+  * David Seifert <16636962+SoapGentoo@users.noreply.github.com>
